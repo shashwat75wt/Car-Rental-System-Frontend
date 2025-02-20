@@ -1,8 +1,4 @@
 
-
-### 📌 **README.md** (Car Rental System)
-
-```md
 # 🚗 Car Rental System (Frontend)
 
 This is a **Car Rental System** frontend built using **React, Vite, and TypeScript**, featuring a **dummy payment gateway** for car bookings.
