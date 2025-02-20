@@ -1,4 +1,4 @@
-# Test Project
+# Car Rental Project
 
 ## Backend
 - [README](./backend/README.md)
